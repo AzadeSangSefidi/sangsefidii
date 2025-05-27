@@ -24,4 +24,4 @@ python:
   install:
     - method: pip
       path: .  # اگر پکیج پایتون نیست، این خط را حذف یا کامنت کنید
-    - requirements: /requirements.txt  # مسیر فایل requirements.txt
+    - requirements: req/requirements.txt  # مسیر فایل requirements.txt
